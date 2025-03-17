@@ -8,3 +8,5 @@ node_modules
 /build
 /ETHCI-r3f-editor
 /logs
+# 忽略所有 node_modules 目錄
+**/node_modules/
